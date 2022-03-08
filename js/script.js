@@ -40,15 +40,4 @@ do {
 
 */
 
-let A2 = 5;
-do {
-    console.log(A2);
-    A2++
-} while (A2 < 0)
-
-for (let num = 0; num > 5; num++) {
-    console.log(num)
-
-}
-
 
